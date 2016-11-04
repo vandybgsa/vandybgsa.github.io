@@ -1,0 +1,16 @@
+name: "vandy-bgsa"
+output_dir: "."
+navbar:
+  title: "Vanderbilt Biostatistics Student Association"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Officers"
+      href: officers.html
+    - text: "Journal Club Wiki"
+      href: http://biostat.mc.vanderbilt.edu/wiki/Main/JournalClub
+    - text: "Student Handbook"
+      href: http://lucymcgowan.com/handbook
+output:
+  html_document:
+    theme: flatly

@@ -1,0 +1,11 @@
+---
+title: "Officers"
+---
+
+<span color="white" . />   |               |     
+------------- | ------------- | ----------
+<img src ="http://www.vanderbilt.edu/biostatistics/graduate/manage/wp-content/uploads/Neal2-150x150.jpg" width="100px"/> | **President** | Jacquelyn Neal 
+<img src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAItAAAAJGEwZWZkMWVkLTU1YTAtNGVjMS04NWU0LWQ2Mjg2MjhlMWQ0ZA.jpg" width="100px"/> | **Vice President**| Lucy D'Agostino McGowan  
+ <img src="http://www.vanderbilt.edu/biostatistics/graduate/manage/wp-content/uploads/Hainline-pic2-150x150.jpg" width="100px"/> | **Secretary**| Allison Hainline 
+<img src="http://www.vanderbilt.edu/biostatistics/graduate/manage/wp-content/uploads/Stanley_Brooklyn1.jpg" width="100px"/>|**Treasurer** | Brooklyn Stanley 
+
