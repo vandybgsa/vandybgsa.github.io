@@ -1,7 +1,7 @@
 name: "vandy-bgsa"
 output_dir: "."
 navbar:
-  title: "Vanderbilt Biostatistics Student Association"
+  title: "Vanderbilt Biostatistics Graduate Student Association"
   left:
     - text: "Home"
       href: index.html

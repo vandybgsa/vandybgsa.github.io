@@ -1,9 +1,9 @@
 ---
-title: "Vanderbilt Biostatistics Student Association"
+title: "Vanderbilt Biostatistics Graduate Student Association"
 subtitle: An ASA Student Chapter
 ---
 
-The Biostatistics Graduate Student Association was founded in 2016 by a group of enthusastic students who were particularly excited about getting food at journal club, nerdy t-shirts, and sharing knowledge. It is a recognized organization of Vanderbilt University as well as an ASA student chapter. Currently, it functions primarily to host bi-monthly student-run Journal Clubs. 
+The Biostatistics Graduate Student Association was founded in 2016 by a group of enthusiastic students who were particularly excited about getting food at journal club, nerdy t-shirts, and sharing knowledge. It is a recognized organization of Vanderbilt University as well as an ASA student chapter. Currently, it functions primarily to host bi-monthly student-run Journal Clubs. 
 
 *Mission*:
 We seek to facilitate an environment for students to engage in discussions regarding biostatistics and data science concepts in order to further their knowledge and understanding of the current state of the field.
