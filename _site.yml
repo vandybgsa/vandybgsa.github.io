@@ -13,4 +13,4 @@ navbar:
       href: http://lucymcgowan.com/handbook
 output:
   html_document:
-    theme: flatly
+    theme: cerulean
