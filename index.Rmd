@@ -9,9 +9,9 @@ The Biostatistics Graduate Student Association was founded in 2016 by a group of
 We seek to facilitate an environment for students to engage in discussions regarding biostatistics and data science concepts in order to further their knowledge and understanding of the current state of the field.
 
 <center>
-<img src="http://phdcomics.com/comics/archive/phd010908s.gif" height="500px" width="600px" />
-
 <img src="figs/nov-meeting.jpg" height="500px" width="600px" />
+
+<img src="http://phdcomics.com/comics/archive/phd010908s.gif" height="500px" width="600px" />
 </center>
 
 ***
