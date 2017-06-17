@@ -4,8 +4,8 @@ title: "Officers"
 
 <span color="white" . />   |               |     
 ------------- | ------------- | ----------
-<img src ="http://www.vanderbilt.edu/biostatistics/graduate/manage/wp-content/uploads/Neal2-150x150.jpg" width="100px"/> | **President** | Jacquelyn Neal 
-<img src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAItAAAAJGEwZWZkMWVkLTU1YTAtNGVjMS04NWU0LWQ2Mjg2MjhlMWQ0ZA.jpg" width="100px"/> | **Vice President**| Lucy D'Agostino McGowan  
- <img src="http://www.vanderbilt.edu/biostatistics/graduate/manage/wp-content/uploads/Hainline-pic2-150x150.jpg" width="100px"/> | **Secretary**| Allison Hainline 
-<img src="http://www.vanderbilt.edu/biostatistics/graduate/manage/wp-content/uploads/Stanley_Brooklyn1.jpg" width="100px"/>|**Treasurer** | Brooklyn Stanley 
+<img src ="https://avatars2.githubusercontent.com/u/8431897?v=3&u=63d6ca06baac62938836d99632978235f758528f&s=400" width="100px"/> | **President** | Lucy D'Agostino McGowan
+<img src="http://www.vanderbilt.edu/biostatistics/graduate/manage/wp-content/uploads/FacePic3-150x150.png" width="100px"/> | **Vice President**| Sandya Lakkur
+ <img src="http://www.vanderbilt.edu/biostatistics/graduate/manage/wp-content/uploads/13708189_1486819138010489_1833312790754035481_o2.jpg" width="100px"/> | **Secretary**| Sarah Lotspeich
+<img src="http://www.vanderbilt.edu/biostatistics/graduate/manage/wp-content/uploads/Weeks1.jpg" width="100px"/>|**Treasurer** | Hannah Weeks
 
