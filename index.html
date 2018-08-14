@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -30,10 +30,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -87,6 +89,9 @@ img {
 }
 .tabbed-pane {
   padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
 }
 button.code-folding-btn:focus {
   outline: none;
@@ -185,7 +190,7 @@ $(document).ready(function () {
   <a href="http://biostat.mc.vanderbilt.edu/wiki/Main/JournalClub">Journal Club Wiki</a>
 </li>
 <li>
-  <a href="http://lucymcgowan.com/handbook">Student Handbook</a>
+  <a href="https://vandybgsa.github.io/handbook">Student Handbook</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -212,15 +217,17 @@ $(document).ready(function () {
 <img src="http://phdcomics.com/comics/archive/phd010908s.gif" height="500px" width="600px" />
 </center>
 <hr />
-<div id="upcoming-journal-club-dates" class="section level2">
-<h2>Upcoming Journal Club dates</h2>
-<p>📆 08/30/2017<br />
-📆 09/13/2017<br />
-📆 09/27/2017<br />
-📆 10/11/2017<br />
-📆 10/25/2017<br />
-📆 11/08/2017<br />
-📆 12/06/2017</p>
+<div id="journal-club-dates" class="section level2">
+<h2>Journal Club dates</h2>
+<p>📆 08/22/2018<br />
+📆 09/05/2018<br />
+📆 09/19/2018<br />
+📆 10/03/2018<br />
+📆 10/17/2018<br />
+📆 10/31/2018<br />
+📆 11/14/2018<br />
+📆 11/28/2018<br />
+📆 12/12/2018</p>
 </div>
 <div id="journal-club-expectations" class="section level2">
 <h2>Journal Club expectations</h2>
@@ -231,7 +238,7 @@ $(document).ready(function () {
 </li>
 <li>Students in 3rd year+ are required to present once per year (after completing your orals).<br />
 </li>
-<li>You can <a href="https://docs.google.com/spreadsheets/d/1CaxlRaBwlO7TWVKzrxXTpESfg0M7PCwWR-gQZLVY2J8/edit?usp=sharing">sign up for a slot here</a>. <em>If you haven’t signed up by September 1st, you will be randomly assigned.</em></li>
+<li>You can <a href="https://docs.google.com/spreadsheets/d/1opQ0A6lmqJsiyoxK5oCk_kXHEhhR4cUvR7iMBpsmWcc/edit#gid=0">sign up for a slot here</a>. <em>If you haven’t signed up by September 1st, you will be randomly assigned.</em></li>
 <li>Please send your Journal article to the Secretary no less than 2 weeks in advance to allow for time to disseminate to all students.<br />
 </li>
 <li>Presenters are required to invite at least two faculty members to attend their meeting.</li>

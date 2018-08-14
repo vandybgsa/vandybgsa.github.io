@@ -16,22 +16,24 @@ We seek to facilitate an environment for students to engage in discussions regar
 
 ***
 
-## Upcoming Journal Club dates 
+## Journal Club dates 
 
-`r emo::ji("calendar")` 08/30/2017  
-`r emo::ji("calendar")` 09/13/2017  
-`r emo::ji("calendar")` 09/27/2017  
-`r emo::ji("calendar")` 10/11/2017  
-`r emo::ji("calendar")` 10/25/2017  
-`r emo::ji("calendar")` 11/08/2017  
-`r emo::ji("calendar")` 12/06/2017  
+`r emo::ji("calendar")` 08/22/2018  
+`r emo::ji("calendar")` 09/05/2018  
+`r emo::ji("calendar")` 09/19/2018  
+`r emo::ji("calendar")` 10/03/2018  
+`r emo::ji("calendar")` 10/17/2018  
+`r emo::ji("calendar")` 10/31/2018  
+`r emo::ji("calendar")` 11/14/2018  
+`r emo::ji("calendar")` 11/28/2018  
+`r emo::ji("calendar")` 12/12/2018  
 
 ## Journal Club expectations
 
 * All are welcome to attend, however the content is set specifically for 3rd year+.  
 * All attendees are expected to have read the article, the leader for the week will lead a general discussion, occasionally accompanied by a short presentation of the material.  
 * Students in 3rd year+ are required to present once per year (after completing your orals).  
-* You can [sign up for a slot here](https://docs.google.com/spreadsheets/d/1CaxlRaBwlO7TWVKzrxXTpESfg0M7PCwWR-gQZLVY2J8/edit?usp=sharing). _If you haven't signed up by September 1st, you will be randomly assigned._
+* You can [sign up for a slot here](https://docs.google.com/spreadsheets/d/1opQ0A6lmqJsiyoxK5oCk_kXHEhhR4cUvR7iMBpsmWcc/edit#gid=0). _If you haven't signed up by September 1st, you will be randomly assigned._
 * Please send your Journal article to the Secretary no less than 2 weeks in advance to allow for time to disseminate to all students.  
 * Presenters are required to invite at least two faculty members to attend their meeting.
 

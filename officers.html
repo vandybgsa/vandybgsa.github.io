@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -30,10 +30,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -87,6 +89,9 @@ img {
 }
 .tabbed-pane {
   padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
 }
 button.code-folding-btn:focus {
   outline: none;
@@ -185,7 +190,7 @@ $(document).ready(function () {
   <a href="http://biostat.mc.vanderbilt.edu/wiki/Main/JournalClub">Journal Club Wiki</a>
 </li>
 <li>
-  <a href="http://lucymcgowan.com/handbook">Student Handbook</a>
+  <a href="https://vandybgsa.github.io/handbook">Student Handbook</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -214,24 +219,24 @@ $(document).ready(function () {
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src ="https://avatars2.githubusercontent.com/u/8431897?v=3&u=63d6ca06baac62938836d99632978235f758528f&s=400" width="100px"/></td>
+<td><img src ="https://s3.amazonaws.com/vu-wp0/wp-content/uploads/sites/190/2017/11/21185744/Hannah-Weeks.jpg" width="100px"/></td>
 <td><strong>President</strong></td>
-<td>Lucy D’Agostino McGowan</td>
+<td>Hannah Weeks</td>
 </tr>
 <tr class="even">
-<td><img src="http://www.vanderbilt.edu/biostatistics/graduate/manage/wp-content/uploads/FacePic3-150x150.png" width="100px"/></td>
+<td><img src="https://s3.amazonaws.com/vu-wp0/wp-content/uploads/sites/190/2017/11/22173613/13708189_1486819138010489_1833312790754035481_o2.jpg" width="100px"/></td>
 <td><strong>Vice President</strong></td>
-<td>Sandya Lakkur</td>
-</tr>
-<tr class="odd">
-<td><img src="http://www.vanderbilt.edu/biostatistics/graduate/manage/wp-content/uploads/13708189_1486819138010489_1833312790754035481_o2.jpg" width="100px"/></td>
-<td><strong>Secretary</strong></td>
 <td>Sarah Lotspeich</td>
 </tr>
+<tr class="odd">
+<td><img src="https://s3.amazonaws.com/vu-wp0/wp-content/uploads/sites/190/2017/11/21193317/Sigworth.jpg" width="100px"/></td>
+<td><strong>Secretary</strong></td>
+<td>Elizabeth Sigworth</td>
+</tr>
 <tr class="even">
-<td><img src="http://www.vanderbilt.edu/biostatistics/graduate/manage/wp-content/uploads/Weeks1.jpg" width="100px"/></td>
+<td><img src="https://s3.amazonaws.com/vu-wp0/wp-content/uploads/sites/190/2017/11/21193520/NJames.jpg" width="100px"/></td>
 <td><strong>Treasurer</strong></td>
-<td>Hannah Weeks</td>
+<td>Nathan James</td>
 </tr>
 </tbody>
 </table>
