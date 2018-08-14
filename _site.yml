@@ -10,7 +10,7 @@ navbar:
     - text: "Journal Club Wiki"
       href: http://biostat.mc.vanderbilt.edu/wiki/Main/JournalClub
     - text: "Student Handbook"
-      href: http://lucymcgowan.com/handbook
+      href: https://vandybgsa.github.io/handbook
 output:
   html_document:
     theme: readable
