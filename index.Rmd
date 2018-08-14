@@ -18,24 +18,25 @@ We seek to facilitate an environment for students to engage in discussions regar
 
 ## Journal Club dates 
 
-`r emo::ji("calendar")` 08/22/2018  
+`r emo::ji("calendar")` 08/22/2018 - `r emo::ji("party_popper")` Welcome Back Social `r emo::ji("party_popper")`    
 `r emo::ji("calendar")` 09/05/2018  
 `r emo::ji("calendar")` 09/19/2018  
 `r emo::ji("calendar")` 10/03/2018  
 `r emo::ji("calendar")` 10/17/2018  
 `r emo::ji("calendar")` 10/31/2018  
-`r emo::ji("calendar")` 11/14/2018  
+`r emo::ji("calendar")` 11/14/2018 - `r emo::ji("voltage")` Lightning Talks `r emo::ji("voltage")`  
 `r emo::ji("calendar")` 11/28/2018  
 `r emo::ji("calendar")` 12/12/2018  
 
 ## Journal Club expectations
 
 * All are welcome to attend, however the content is set specifically for 3rd year+.  
-* All attendees are expected to have read the article, the leader for the week will lead a general discussion, occasionally accompanied by a short presentation of the material.  
+* All attendees are expected to have read the article. Here is a good intro on [How to Read the Statistical Methods Literature](https://www.tandfonline.com/doi/abs/10.1080/00031305.1997.10473951). 
+* The leader for the week will lead a general discussion, occasionally accompanied by a short presentation of the material. 
 * Students in 3rd year+ are required to present once per year (after completing your orals).  
 * You can [sign up for a slot here](https://docs.google.com/spreadsheets/d/1opQ0A6lmqJsiyoxK5oCk_kXHEhhR4cUvR7iMBpsmWcc/edit#gid=0). _If you haven't signed up by September 1st, you will be randomly assigned._
 * Please send your Journal article to the Secretary no less than 2 weeks in advance to allow for time to disseminate to all students.  
-* Presenters are required to invite at least two faculty members to attend their meeting.
+* Presenters are required to invite at least one faculty member to attend their meeting and participate in the discussion.
 
 
 
