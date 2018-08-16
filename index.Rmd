@@ -19,14 +19,14 @@ We seek to facilitate an environment for students to engage in discussions regar
 ## Journal Club dates 
 
 `r emo::ji("calendar")` 08/22/2018 - `r emo::ji("party_popper")` Welcome Back Social `r emo::ji("party_popper")`    
-`r emo::ji("calendar")` 09/05/2018  
-`r emo::ji("calendar")` 09/19/2018  
-`r emo::ji("calendar")` 10/03/2018  
-`r emo::ji("calendar")` 10/17/2018  
-`r emo::ji("calendar")` 10/31/2018  
+`r emo::ji("calendar")` 09/05/2018 - Nathan James, *Bayesian Joint Modelling of benefit and risk in drug development* 
+`r emo::ji("calendar")` 09/19/2018 - Svetlana Eden  
+`r emo::ji("calendar")` 10/03/2018 - Sarah Lotspeich  
+`r emo::ji("calendar")` 10/17/2018 - Hannah Weeks  
+`r emo::ji("calendar")` 10/31/2018 - Valerie Welty  
 `r emo::ji("calendar")` 11/14/2018 - `r emo::ji("voltage")` Lightning Talks `r emo::ji("voltage")`  
-`r emo::ji("calendar")` 11/28/2018  
-`r emo::ji("calendar")` 12/12/2018  
+`r emo::ji("calendar")` 11/28/2018 - Ryan Jarrett  
+`r emo::ji("calendar")` 12/12/2018 - `r emo::ji("wrapped_gift")` Holiday Party `r emo::ji("wrapped_gift")`  
 
 ## Journal Club expectations
 
