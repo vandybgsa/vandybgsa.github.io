@@ -20,7 +20,7 @@ We seek to facilitate an environment for students to engage in discussions regar
 
 `r emo::ji("calendar")` 08/22/2018 - `r emo::ji("party_popper")` Welcome Back Social `r emo::ji("party_popper")`    
 `r emo::ji("calendar")` 09/05/2018 - Nathan James, *Bayesian Joint Modelling of benefit and risk in drug development*  
-`r emo::ji("calendar")` 09/19/2018 - Svetlana Eden  
+`r emo::ji("calendar")` 09/19/2018 - Svetlana Eden, *Properties and applications of copulas: A brief survey*    
 `r emo::ji("calendar")` 10/03/2018 - Sarah Lotspeich, *Accounting for Data Errors Discovered from an Audit in Multiple Linear Regression*    
 `r emo::ji("calendar")` 10/17/2018 - Hannah Weeks  
 `r emo::ji("calendar")` 10/31/2018 - Valerie Welty  
