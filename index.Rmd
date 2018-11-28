@@ -25,8 +25,8 @@ We seek to facilitate an environment for students to engage in discussions regar
 `r emo::ji("calendar")` 10/17/2018 - Elizabeth Sigworth, *The Role of Statistics in the Era of Big Data*    
 `r emo::ji("calendar")` 10/31/2018 `r emo::ji("halloween")` - Valerie Welty, *Avoiding the high Bonferroni penalty in genome-wide association studies*    
 `r emo::ji("calendar")` 11/14/2018 - `r emo::ji("voltage")` Lightning Talks `r emo::ji("voltage")`  
-`r emo::ji("calendar")` 11/28/2018 - Ryan Jarrett  
-`r emo::ji("calendar")` 12/12/2018 - `r emo::ji("wrapped_gift")` Holiday Party `r emo::ji("wrapped_gift")`  
+`r emo::ji("calendar")` 11/28/2018 - Ryan Jarrett, *Lord’s Paradox Revisited – (Oh Lord! Kumbaya!)*    
+`r emo::ji("calendar")` 12/5/2018 - `r emo::ji("wrapped_gift")` Holiday Party `r emo::ji("wrapped_gift")`  
 
 ## Journal Club expectations
 
