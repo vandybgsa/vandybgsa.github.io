@@ -37,13 +37,3 @@ We seek to facilitate an environment for students to engage in discussions regar
 * You can [sign up for a slot here](https://docs.google.com/spreadsheets/d/1opQ0A6lmqJsiyoxK5oCk_kXHEhhR4cUvR7iMBpsmWcc/edit#gid=0). _If you haven't signed up by September 1st, you will be randomly assigned._
 * Please send your Journal article to the Secretary no less than 2 weeks in advance to allow for time to disseminate to all students.  
 * Presenters are required to invite at least one faculty member to attend their meeting and participate in the discussion.
-
-
-
-## Select past meetings
-
-* Mark led a discussion on the article "Fair Treatment Comparisons in Observational Research".
-* Nate led a discussion about "On the Variances of Asymptotically Normal Estimators from Complex Surveys".
-* Sandya led a discussion on "A Statistical Framework for the Adaptive Management of Epidemiological Interventions".
-* Sarah led a discussion on the paper "Bias and efficiency of multiple imputation compared with complete-case analysis for missing covariate values".
-* Allison led a discussion on the article "When Efficient Model Averaging Out-Performs Boosting and Bagging".
