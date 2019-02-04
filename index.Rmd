@@ -20,6 +20,8 @@ Where: Sarratt Student Center 216/220
 
 [The Effort Report](http://theeffortreport.com/about/), hosted by Dr. Roger Peng from Johns Hopkins University and Dr. Elizabeth Matsui from University of Texas at Austin, will record an episode of their podcast live at Vanderbilt. The podcast focuses on the challenges of professional life and academia, with advice for current students. 
 
+Listen to this episode [here](http://effortreport.libsyn.com/87-live-from-vanderbilt-university)
+
 ***
 
 ## Journal Club 
@@ -42,7 +44,7 @@ Where: Sarratt Student Center 216/220
 
 
 `r emo::ji("calendar")` 1/16/2019 - Lessons from the Trenches: a Q&A Session on Everything Conferences  
-`r emo::ji("calendar")` 1/30/2019 - Hannah Weeks  
+`r emo::ji("calendar")` 1/30/2019 - Hannah Weeks, *Moving beyond regression techniques in cardiovascular risk prediction: applying machine learning to address analytic challenges*  
 `r emo::ji("calendar")` 2/13/2019 - Lisa Lin  
 `r emo::ji("calendar")` 2/27/2019 - Jonathan Chipman  
 `r emo::ji("calendar")` 3/13/2019 - Nick Strayer  
