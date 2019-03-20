@@ -48,7 +48,7 @@ Listen to this episode [here](http://effortreport.libsyn.com/87-live-from-vander
 `r emo::ji("calendar")` 2/13/2019 - Lisa Lin, *Power failure: why small sample size undermines the reliability of neuroscience*    
 `r emo::ji("calendar")` 2/27/2019 - Student, Faculty, and Staff Social    
 `r emo::ji("calendar")` 3/13/2019 - Nick Strayer, *Efficiently inferring community structure in bipartite networks*  
-`r emo::ji("calendar")` 3/27/2019 - TBD  
+`r emo::ji("calendar")` 4/03/2019 - TBD  
 `r emo::ji("calendar")` 4/10/2019 - Faculty presentations  
 
 ### Journal Club expectations
