@@ -15,12 +15,7 @@ We seek to facilitate an environment for students to engage in discussions regar
 ***
 ## Special Event - The Effort Report: Live at Vanderbilt `r emo::ji("studio_microphone")`  
 
-When: Friday, January 25 2019, 2-3:30pm  
-Where: Sarratt Student Center 216/220  
-
-[The Effort Report](http://theeffortreport.com/about/), hosted by Dr. Roger Peng from Johns Hopkins University and Dr. Elizabeth Matsui from University of Texas at Austin, will record an episode of their podcast live at Vanderbilt. The podcast focuses on the challenges of professional life and academia, with advice for current students. 
-
-Listen to this episode [here](http://effortreport.libsyn.com/87-live-from-vanderbilt-university)
+[The Effort Report](http://theeffortreport.com/about/), hosted by Dr. Roger Peng from Johns Hopkins University and Dr. Elizabeth Matsui from University of Texas at Austin, recorded their podcast live at Vanderbilt on January 25 2019. The episode was focused on the challenges of professional life and academia, with advice for current students. You can listen to the episode [here](http://effortreport.libsyn.com/87-live-from-vanderbilt-university).
 
 ***
 
@@ -48,8 +43,8 @@ Listen to this episode [here](http://effortreport.libsyn.com/87-live-from-vander
 `r emo::ji("calendar")` 2/13/2019 - Lisa Lin, *Power failure: why small sample size undermines the reliability of neuroscience*    
 `r emo::ji("calendar")` 2/27/2019 - Student, Faculty, and Staff Social    
 `r emo::ji("calendar")` 3/13/2019 - Nick Strayer, *Efficiently inferring community structure in bipartite networks*  
-`r emo::ji("calendar")` 4/03/2019 - End of year wrap-up    
-`r emo::ji("calendar")` 4/10/2019 - Faculty presentations  
+`r emo::ji("calendar")` 4/03/2019 - ENAR Discussion & Comps Advice    
+`r emo::ji("calendar")` 4/10/2019 - `r emo::ji("voltage")` Faculty Lightning Talks `r emo::ji("voltage")` 
 
 ### Journal Club expectations
 
