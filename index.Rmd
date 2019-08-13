@@ -27,24 +27,8 @@ We seek to facilitate an environment for students to engage in discussions regar
 
 ### Dates 
 
-`r emo::ji("calendar")` 08/22/2018 - `r emo::ji("party_popper")` Welcome Back Social `r emo::ji("party_popper")`    
-`r emo::ji("calendar")` 09/05/2018 - Nathan James, *Bayesian Joint Modelling of benefit and risk in drug development*  
-`r emo::ji("calendar")` 09/19/2018 - Svetlana Eden, *Properties and applications of copulas: A brief survey*    
-`r emo::ji("calendar")` 10/03/2018 - Sarah Lotspeich, *Accounting for Data Errors Discovered from an Audit in Multiple Linear Regression*    
-`r emo::ji("calendar")` 10/17/2018 - Elizabeth Sigworth, *The Role of Statistics in the Era of Big Data*    
-`r emo::ji("calendar")` 10/31/2018 `r emo::ji("halloween")` - Valerie Welty, *Avoiding the high Bonferroni penalty in genome-wide association studies*    
-`r emo::ji("calendar")` 11/14/2018 - `r emo::ji("voltage")` Lightning Talks `r emo::ji("voltage")`  
-`r emo::ji("calendar")` 11/28/2018 - Ryan Jarrett, *Lord’s Paradox Revisited – (Oh Lord! Kumbaya!)*    
-`r emo::ji("calendar")` 12/5/2018 - `r emo::ji("wrapped_gift")` Holiday Party `r emo::ji("wrapped_gift")`  
-
-
-`r emo::ji("calendar")` 1/16/2019 - Lessons from the Trenches: a Q&A Session on Everything Conferences  
-`r emo::ji("calendar")` 1/30/2019 - Hannah Weeks, *Moving beyond regression techniques in cardiovascular risk prediction: applying machine learning to address analytic challenges*  
-`r emo::ji("calendar")` 2/13/2019 - Lisa Lin, *Power failure: why small sample size undermines the reliability of neuroscience*    
-`r emo::ji("calendar")` 2/27/2019 - Student, Faculty, and Staff Social    
-`r emo::ji("calendar")` 3/13/2019 - Nick Strayer, *Efficiently inferring community structure in bipartite networks*  
-`r emo::ji("calendar")` 4/03/2019 - ENAR Discussion & Comps Advice    
-`r emo::ji("calendar")` 4/10/2019 - `r emo::ji("voltage")` Faculty Lightning Talks `r emo::ji("voltage")` 
+`r emo::ji("calendar")` 08/28/2019 - `r emo::ji("party_popper")` Welcome Back Social `r emo::ji("party_popper")`    
+`r emo::ji("calendar")` 09/11/2019 - Elizabeth Sigworth, *TBD*  
 
 ### Journal Club expectations
 
