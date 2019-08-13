@@ -4,7 +4,9 @@ navbar:
   title: "Vanderbilt Biostatistics Graduate Student Association"
   left:
     - text: "Home"
-      href: index.html
+      href: index2.html
+    - text: "Quick Links"
+      href: links.html
     - text: "Officers"
       href: officers.html
     - text: "Journal Club Wiki"
