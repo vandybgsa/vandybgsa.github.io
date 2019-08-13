@@ -3,9 +3,10 @@ title: "Officers"
 ---
 
 <span color="white" . />   |               |     
-------------- | ------------- | ----------
-<img src ="https://s3.amazonaws.com/vu-wp0/wp-content/uploads/sites/190/2017/11/21185744/Hannah-Weeks.jpg" width="100px"/> | **President** | Hannah Weeks
-<img src="https://s3.amazonaws.com/vu-wp0/wp-content/uploads/sites/190/2017/11/22173613/13708189_1486819138010489_1833312790754035481_o2.jpg" width="100px"/> | **Vice President**| Sarah Lotspeich
- <img src="https://s3.amazonaws.com/vu-wp0/wp-content/uploads/sites/190/2017/11/21193317/Sigworth.jpg" width="100px"/> | **Secretary**| Elizabeth Sigworth
-<img src="https://s3.amazonaws.com/vu-wp0/wp-content/uploads/sites/190/2017/11/21193520/NJames.jpg" width="100px"/>|**Treasurer** | Nathan James
+------------- | ------------- | ---------- | ----------
+<img src ="https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/190/2017/11/05144950/80C21C5F-7572-4229-AA81-8A3FEC9A7314-e1536167841324.jpeg" width="100px"/> | **President** | Hannah Weeks | hannah.L.weeks@vanderbilt.edu
+<img src="https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/190/2017/11/05144356/DB70ED14-CE74-46A7-8155-05596AB93C69-e1536161812955.jpeg" width="100px"/> | **Vice President**| Elizabeth Sigworth | elizabeth.a.sigworth@vanderbilt.edu
+<img src="https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/190/2017/11/05144334/3D8B6715-80C6-42C0-B7FA-072E8E29240E-e1536159157954.jpeg" width="100px"/>|**Treasurer** | Cole Harris | coleman.r.harris@vanderbilt.edu
+ <img src="https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/190/2017/11/05144350/B19027FD-CBB1-440D-B26B-B13CA8EA9BB8-e1536167878841.jpeg" width="100px"/> | **Secretary**| Lisa Lin | ya-chen.lin.1@vanderbilt.edu
+
 
