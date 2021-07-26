@@ -2,8 +2,16 @@
 title: "<br /> Quick Links"
 ---
 
+
+
 - [Biostatistics Journal Club Wiki](https://biostat.app.vumc.org/wiki/Main/JournalClub)
 - [Biostatistics Seminars](https://biostat.app.vumc.org/wiki/Main/WednesdaySeminarSeries)
 - [BGSA on Vanderbilt AnchorLink](https://anchorlink.vanderbilt.edu/organization/biostatistics)
 - [Department Website](https://www.vanderbilt.edu/biostatistics-graduate/)
 - [Vanderbilt LaTeX Dissertation Template](https://github.com/hootener/LaTeX-Vanderbilt-Dissertation-Format)
+
+----
+
+<center><img src="https://imgs.xkcd.com/comics/file_extensions.png"><br />
+https://xkcd.com/1301/
+</center>
