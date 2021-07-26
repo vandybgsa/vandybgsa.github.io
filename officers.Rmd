@@ -1,12 +1,11 @@
 ---
-title: "Officers"
+title: "<br /> Officers"
 ---
 
-<span color="white" . />   |               |     
+<span>              | <span>      | <span>       | <span>     
 ------------- | ------------- | ---------- | ----------
-<img src ="https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/190/2017/11/05144950/80C21C5F-7572-4229-AA81-8A3FEC9A7314-e1536167841324.jpeg" width="100px"/> | **President** | Hannah Weeks | hannah.L.weeks@vanderbilt.edu
-<img src="https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/190/2017/11/05144356/DB70ED14-CE74-46A7-8155-05596AB93C69-e1536161812955.jpeg" width="100px"/> | **Vice President**| Elizabeth Sigworth | elizabeth.a.sigworth@vanderbilt.edu
-<img src="https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/190/2017/11/05144334/3D8B6715-80C6-42C0-B7FA-072E8E29240E-e1536159157954.jpeg" width="100px"/>|**Treasurer** | Cole Harris | coleman.r.harris@vanderbilt.edu
- <img src="https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/190/2017/11/05144350/B19027FD-CBB1-440D-B26B-B13CA8EA9BB8-e1536167878841.jpeg" width="100px"/> | **Secretary**| Lisa Lin | ya-chen.lin.1@vanderbilt.edu
-
-
+<img src ="https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/190/2017/11/05144334/3D8B6715-80C6-42C0-B7FA-072E8E29240E-e1536159157954.jpeg" width="100px"/> | **President** | Coleman Harris | coleman.r.harris@vanderbilt.edu
+<img src="https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/190/2019/11/12190841/Joseph.Jamie_-e1573585792229.jpg" width="100px"/> | **Vice President**| Jamie Joseph | jamie.g.joseph@vanderbilt.edu
+<img src="https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/190/2018/08/22192336/Chiara1.jpeg" width="100px"/>|**Treasurer** | Chiara Di Gravio | chiara.di.gravio@vanderbilt.edu
+<img src="https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/190/2020/10/30030839/Cara-scaled-e1604027415985.jpg" width="100px"/> | **Secretary**| Cara Lwin | cara.t.lwin@vanderbilt.edu
+<img src="https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/190/2020/10/30031608/Marisa-scaled-e1604028375492.jpg" width="100px"/> | **First Year Liaison**| Marisa Blackman | marisa.h.blackman@vanderbilt.edu
