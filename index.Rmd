@@ -22,13 +22,13 @@ We seek to facilitate an environment for students to engage in discussions regar
 
 #### Dates 
 
-2021 dates are **TBD**!
+Information on the 2021 Journal Club dates and speakers can be found in the spreadsheet [here](https://docs.google.com/spreadsheets/d/1tlTsS_NdBZq63uVIAWdckg-wHPuPPqd8wge2paODk_g/edit#gid=0). 
 
 #### Expectations
 
 * All are welcome to attend!
-* All attendees are expected to have read the article or background provided by the speaker. Here is a good intro on [How to Read the Statistical Methods Literature](https://www.tandfonline.com/doi/abs/10.1080/00031305.1997.10473951). 
+* All attendees are expected to have read the article or background provided by the speaker. Here is a good intro on [How to Read the Statistical Methods Literature](https://www.tandfonline.com/doi/abs/10.1080/00031305.1997.10473951).
 * The leader for the week will lead a general discussion, occasionally accompanied by a short presentation of the material. 
-* Students in 3rd year+ are required to present once per year (after completing your orals).  
-* Please send your Journal article to the Secretary no less than 2 weeks in advance to allow for time to disseminate to all students.  
+* Students in their 3rd & 4th years are required to present once per year.
+* Please send your Journal article, software package, or research topic to the Secretary no less than 2 weeks in advance to allow for time to disseminate to all students.  
 * Presenters are required to invite at least one faculty member to attend their meeting and participate in the discussion.
