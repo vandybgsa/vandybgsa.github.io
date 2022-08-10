@@ -4,8 +4,8 @@ title: "<br /> Officers"
 
 <span>              | <span>      | <span>       | <span>     
 ------------- | ------------- | ---------- | ----------
-<img src ="https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/190/2017/11/05144334/3D8B6715-80C6-42C0-B7FA-072E8E29240E-e1536159157954.jpeg" width="100px"/> | **President** | Coleman Harris | coleman.r.harris@vanderbilt.edu
-<img src="https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/190/2019/11/12190841/Joseph.Jamie_-e1573585792229.jpg" width="100px"/> | **Vice President**| Jamie Joseph | jamie.g.joseph@vanderbilt.edu
-<img src="https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/190/2018/08/22192336/Chiara1.jpeg" width="100px"/>|**Treasurer** | Chiara Di Gravio | chiara.di.gravio@vanderbilt.edu
-<img src="https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/190/2020/10/30030839/Cara-scaled-e1604027415985.jpg" width="100px"/> | **Secretary**| Cara Lwin | cara.t.lwin@vanderbilt.edu
-<img src="https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/190/2020/10/30031608/Marisa-scaled-e1604028375492.jpg" width="100px"/> | **First Year Liaison**| Marisa Blackman | marisa.h.blackman@vanderbilt.edu
+<img src ="https://www.vanderbilt.edu/biostatistics-graduate/wp-content/uploads/sites/190/JamieJoseph2021-2048x1621.jpg" width="100px"/> | **President** | Jamie Joseph | jamie.g.joseph@vanderbilt.edu
+<img src="https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/190/2020/10/30030839/Cara-scaled-e1604027415985.jpg" width="100px"/> | **Vice President**| Cara Lwin | cara.lwin@vanderbilt.edu
+<img src="https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/190/2020/10/30025016/Jiangmei-scaled-e1604026320461.jpg" width="100px"/>|**Treasurer** | Ruby Xiong | jiangmei.xiong@vanderbilt.edu
+<img src="https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/190/2020/10/30031608/Marisa-scaled-e1604028375492.jpg" width="100px"/> | **Secretary**| Marisa Blackman | marisa.h.blackman@vanderbilt.edu
+<img src="https://www.vanderbilt.edu/biostatistics-graduate/wp-content/uploads/sites/190/Elisa_Yazdani-1-scaled-e1632864838826.jpg"/> | **First Year Liaison**| Elisa Yazdani | elisa.yazdani.1@vanderbilt.edu
