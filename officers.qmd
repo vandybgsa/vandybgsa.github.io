@@ -1,0 +1,16 @@
+---
+title: "Officers"
+format: html
+---
+
+
+| Position | 2026-2027 | Email(s)|
+|:-----|:------|:-------|
+| President   |    Ashley Mullan |   ashley.e.mullan@vanderbilt.edu   |
+| Vice President  |   Zongyue Teng |  zongyue.teng@vanderbilt.edu   |
+| Faculty Relations Liaisons    | Danni Shi and Hao Wu |   danni.shi@vanderbilt.edu & hao.wu@vanderbilt.edu   |
+| Treasurer | Ningkun Zhou | ningkun.zhou@vanderbilt.edu |
+| Secretary | Haoyue Li | haoyue.li@vanderbilt.edu |
+| Outreach Officer | Danni Shi | danni.shi@vanderbilt.edu |
+| First Year Liaisons | Hannah Klinger and Haoyue Li | hannah.m.klinger@vanderbilt.edu & haoyue.li@vanderbilt.edu |
+
